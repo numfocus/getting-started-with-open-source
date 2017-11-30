@@ -43,6 +43,8 @@
     - Why it&#39;s important
     - Why it&#39;s a PITA for data scientists to learn
   - R, Python, Git, Shell for data science
+ - **My Story**
+  I have been a statistician and data scientist for several years in the corporate world. With zero exposure to the contribution process with Open Source tools; the very thought terrifies me. Moreover, the software engineering process itself is a new-to-me monster, filled with challenges in toolset, thinking, and understanding. The Open Source guide as created in collaboration with my colleagues through [DISC](https://www.numfocus.org/programs/diversity-and-inclusion/) marks my first effort in open source contributions.
 
 ### ⭐️[Leah Guthrie](https://github.com/Dr-G)
 
