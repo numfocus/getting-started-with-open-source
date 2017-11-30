@@ -30,7 +30,7 @@ If you know of any more great resources for this purpose please feel free to add
  - [Apache Project List](https://www.apache.org/)
  
  ## How to find issues targeted at first timers in github
- - Some issues are more suitable to new contributors to an Open Source project.  To make these easier to find, they are often tagged with some of the following labels `first-timers-only`, `good first issue`, `good first task`, `beginners welcome`, `up-for-grabs`
+ - Some issues are better suited to new contributors to an Open Source project.  To make these easier to find, they are often tagged with some of the following labels `first-timers-only`, `good first issue`, `good first task`, `beginners welcome`, `up-for-grabs`, `hacktoberfest`
  - [Github search for first-timer labels](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 
 ## Getting Started with Code Collaboration
