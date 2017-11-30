@@ -1,7 +1,30 @@
+# List of curated resources to get started in Open source
+This is a comprehensive, yet not definite, collection of _verified_ resources that we put together in an attempt to help anyone wanting to get started in the amazing world of Open Science.
+
+If you know of any more great resources for this purpose please feel free to add them here. To make it easier for you to conntribute to this repo we have some [Contributing Guidelines](./CONTRIBUTING.md), make sure to read them first.
+
+
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+	- [Getting Started with Code Collaboration](#getting-started-with-code-collaboration)
+	- [Getting Started with Contributions](#getting-started-with-contributions)
+	- [List of Projects](#list-of-projects)
+	- [Programs for Contributors](#programs-for-contributors)
+	- [How to find issues targeted at first timers in github](#how-to-find-issues-targeted-at-first-timers-in-github)
+	- [Organizations For Open Source](#organizations-for-open-source)
+	- [Why Contribute?](#why-contribute)
+	- [Community](#community)
+	- [Overall Guides](#overall-guides)
+	- [Personal Stories](#personal-stories)
+	- [Advanced Resources](#advanced-resources)
+	- [How to Overcome Imposter Syndrome](#how-to-overcome-imposter-syndrome)
+
+<!-- /TOC -->
 ### Getting Started with Code Collaboration
 - [Git and GitHub Video for Beginners](http://www.dataschool.io/git-and-github-videos-for-beginners/)
 - [Friendly GitHub Intro](https://joeyklee.github.io/friendly-github-intro/)
 - [Introduction to Shell](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+
 ### Getting Started with Contributions
 - [Choosing an Organization](https://google.github.io/gsocguides/student/choosing-an-organization)
 - [Making First Contact](https://google.github.io/gsocguides/student/making-first-contact)
@@ -10,11 +33,11 @@
 - [How to Start Contributing to Open Source](https://www.developer.com/open/how-to-start-contributing-to-open-source.html)
 ### List of Projects
  - [A list of projects sorted by project type](https://opensource.com/resources/projects-and-applications)
- - A github repo listing projects and the labels they have created to specify which issues are targeted for beginners.  Projects with these labels are indicating that they would like beginners to help out. [Awesome for beginners] (https://github.com/MunGell/awesome-for-beginners) 
+ - A github repo listing projects and the labels they have created to specify which issues are targeted for beginners.  Projects with these labels are indicating that they would like beginners to help out. [Awesome for beginners] (https://github.com/MunGell/awesome-for-beginners)
  - List of Projects we have contributed to
     - [NumFocus Open Source Projects](https://www.numfocus.org/open-source-projects/)
     - [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
-    - Web Browsers: [Mozilla open science](https://science.mozilla.org/projects) 
+    - Web Browsers: [Mozilla open science](https://science.mozilla.org/projects)
  - [Apache Project List](https://www.apache.org/)
 ### Programs for Contributors
 - [First Timers Only](http://www.firsttimersonly.com/)
@@ -22,7 +45,7 @@
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
 ### How to find issues targeted at first timers in github
- - Search string: is:open is:issue label:first-timers-only 
+ - Search string: is:open is:issue label:first-timers-only
  - [Github search for first-timer labels](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 ### Organizations For Open Source
 ### Why Contribute?
@@ -61,4 +84,3 @@
  - [Imposter Syndrome](https://github.com/dbgrandi/imposter-syndrome-talk/blob/master/imposter_syndrome.md)
  - https://twitter.com/adriennefriend/status/885980514628317185
  - https://twitter.com/GonzoHacker/statuses/859517665588674560
-
