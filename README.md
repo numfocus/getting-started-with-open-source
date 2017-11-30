@@ -1,7 +1,7 @@
 # Overcoming barriers to entry in Open Source projects
 
-This repository contains documents and resources on getting started with open
-source projects.
+This repository contains documents and resources on getting started with Open
+Source projects.
 
 ### [Compilation of Open Source Resources](./compilation_of_open_source_resources.md)
 This file includes a collection of external resources (links) that elaborate on how to contribute to open source projects effectively as a newbie.
