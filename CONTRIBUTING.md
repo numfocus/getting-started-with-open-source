@@ -1,7 +1,7 @@
 # How to contribute
 
 ### What should I know before getting started?
-First of all thanks for taking the time to contribute to our project.
+First of all thanks for taking the time to contribute to our project. We are happy to welcome contributors and we really value the time and effort you take to work with us on this project.
 
 We have set this contribution guidelines to make it easier for you to get involved. If you have any questions please let us know by rising an [issue](https://github.com/numfocus/getting-started-with-open-source/issues).
 
@@ -13,13 +13,18 @@ There might be a little voice inside that tells you you're not ready; that you n
 
 I assure you, that's not the case.
 
+### Contributing Guidelines
+
 This project has some clear Contribution Guidelines and expectations that you can read here (link).
 
 The contribution guidelines outline the process that you'll need to follow to get a patch merged. By making expectations and process explicit, I hope it will make it easier for you to contribute.
 
 And you don't just have to write code. You can help out by writing documentation, tests, or even by giving feedback about this work. (And yes, that includes giving feedback about the contribution guidelines.)
 
-Thank you for contributing!
+### Community matters
+One of the things that makes open source so amazing is the community! As part of our community we want you to not only feel welcome but respected and appreciated as a contributor.
+
+We have a Code of Conduct which will be enforced in all aspects of the project. Please make sure you read it before getting started.
 
 # Licensing
 
