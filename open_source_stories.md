@@ -53,9 +53,9 @@
   - Yes, I have contributed to [https://github.com/nikitasingh981/smartcitieshack-d3](https://github.com/nikitasingh981/smartcitieshack-d3) and [https://github.com/scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - **My Skills to Share:**
   - I create tutorials on using python and R for data analysis and visualization
-  - I have a tutorial introducing network analysis &lt; [https://github.com/ltcguthrie/Pygotham\_2017](https://github.com/ltcguthrie/Pygotham_2017)&gt;
+  - I have a tutorial introducing network analysis [https://github.com/ltcguthrie/Pygotham\_2017](https://github.com/ltcguthrie/Pygotham_2017)
   - I develop STEM curriculum material geared towards high school students
-  - **My Story:**
+- **My Story:**
 I have been using open source (OS) tools for my thesis work for the past 4 years. Three years in, I made my first OS contribution. In the Spring of 2017, I participated in a Scikit-learn Sprint organized by the [NYC WiMLDS]( https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) meetup group. It was a friendly introduction to the process of choosing a project, identifying an issue and submitting a pull request. 
 
 **Mayur Gilani**
