@@ -13,8 +13,6 @@ I assure you, that's not the case.
 
 ### Contributing Guidelines
 
-This project has some clear Contribution Guidelines and expectations that you can read here (link).
-
 We have set some clear contribution guidelines to make it easier for you to get involved. You can find these guidelines [here]().
 
 The contribution guidelines outline the process that you'll need to follow to get a patch merged. By making expectations and process explicit, I hope it will make it easier for you to contribute.
@@ -22,9 +20,9 @@ The contribution guidelines outline the process that you'll need to follow to ge
 And you don't just have to write code. You can help out by writing documentation, tests, or even by giving feedback about this work. (And yes, that includes giving feedback about the contribution guidelines.)
 
 ### Community matters
-One of the things that makes open source so amazing is the community! As part of our community we want you to not only feel welcome but respected and appreciated as a contributor.
+One of the things that makes open source so amazing is the community! As part of our community we want you to not only feel welcome but also respected and appreciated as a contributor.
 
-We have a Code of Conduct which will be enforced in all aspects of the project. Please make sure you read it before getting started.
+We have a [Code of Conduct](./code_of_conduct.md) which will be enforced in all aspects of the project. Please make sure you read it before getting started.
 
 # Licensing
 
