@@ -45,7 +45,7 @@ If you know of any more great resources for this purpose please feel free to add
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
 ### How to find issues targeted at first timers in github
- - Search string: is:open is:issue label:first-timers-only
+ - Search string: `is:open is:issue label:first-timers-only`
  - [Github search for first-timer labels](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 ### Organizations For Open Source
 ### Why Contribute?
