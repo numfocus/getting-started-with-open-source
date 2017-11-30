@@ -42,7 +42,7 @@ Look for ways to keep the momentum going after the sprint.  At Two Sigma, we hos
 
 ### More Resources 
 
-Bloomberg also hosts an annual Open Source Day. Over 30 empployees participated in this Git sprint.  Here’s a link to [Bloomberg and Open Source:  Collaborating on Better Developer Tools]( 
+Bloomberg also hosts an annual Open Source Day. Over 30 employees participated in this Git sprint.  Here’s a link to [Bloomberg and Open Source:  Collaborating on Better Developer Tools]( 
 https://www.bloomberg.com/company/announcements/bloomberg-open-source-collaborating-better-solutions-code-management/). 
 
 Here’s a link by first time contributor Noemi Derzsy at a [scikit sprint](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/) in New York City.  
