@@ -14,7 +14,7 @@ Wondering why you contribute to Open Source?  Here are a few good reasons it can
 This file includes a collection of external resources (links) that elaborate on how to contribute to Open Source projects effectively as a newbie.
 
 ### [How to organize an Open Source sprint](./how_to_organize_an_open_source_sprint.md)
-An Open Source sprint is short event where groups of people get together to work on one Open Source project with help from its maintainers.  We provide detailed instructions and resources for organizing an Open Source sprint at your company, club or Meetup Group. 
+An Open Source sprint is a short event where groups of people get together to work on a single Open Source project with help from its maintainers.  We provide detailed instructions and resources for organizing an Open Source sprint at your company, club or Meetup Group. 
 
 ### [Meet the Contributors](./open_source_stories.md)
 About the contributors to this repo and their Open Source experience.
