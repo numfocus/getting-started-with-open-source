@@ -94,6 +94,8 @@
   - Yes. I&#39;m a maintainer of the [Tax-Calculator](https://github.com/open-source-economics/Tax-Calculator) and [TaxData](https://github.com/open-source-economics/taxdata) repos.
 - **My Skills to Share:**
   - Python, markdown
+- **My Story:**
+  After studying economics in undergrad, I began working at a think tank in Washington, DC on an open source tax model. This was my first step into both open source and software development/data science. I had no idea what I was doing initially (my first pull requests reflect this), but after some time I became more comfortable putting code out there for others to review and use. Since then I have been involved in Code for DC and gotten into the habit of posting most of the code I write on GitHUb. Getting involved in open source has improved my development skills dramtically as I have been able to see other's code and have my own reviewed and corrected.
 
 **Prince Wilson**
 
