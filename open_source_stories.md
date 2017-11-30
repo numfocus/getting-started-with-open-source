@@ -126,5 +126,5 @@
   The very vast majority of my work is completely open source these days (except for some sensitive research... you know how it works). I also am the founder/maintainer of [Coding Foundation](https://github.com/trallard/Coding-foundation) an open source project aimed to increase the representation of women and members of the LGBT community in Computer Science and tech related areas (data science included). Also, I actively contribute to a number of open source projects which are part of larger organizations and initiatives.
 
 - **My skills to share:**
-  - Python, R, MATLAB, Fortran, C/C++, data visualization, data analysis / science, version control, web development, API design
+  - Python, R, MATLAB, Fortran, C/C++, data visualization, data analysis / science, version control, web development (full stack), API design, HPC, cloud computing
   - Teaching, mentoring, public speaking, outreach and dissemination, community building
