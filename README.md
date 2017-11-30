@@ -3,6 +3,8 @@
 This repository contains documents and resources on getting started with Open
 Source projects.
 
+This resource was created as part of the [NumFocus DISC Unconference](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/).  Read about its creation on the [NumFocus blog](https://www.numfocus.org/blog/getting-started-with-open-source-notes-from-the-numfocus-disc-unconference/).
+
 ### [Compilation of Open Source Resources](./compilation_of_open_source_resources.md)
 This file includes a collection of external resources (links) that elaborate on how to contribute to Open Source projects effectively as a newbie.
 
