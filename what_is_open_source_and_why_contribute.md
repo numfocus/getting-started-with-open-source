@@ -1,4 +1,4 @@
-#What is Open Source?
+# What is Open Source?
 
 Open source software is software with source code that anyone can inspect, modify, and enhance.
 
@@ -8,7 +8,7 @@ Only the original authors of proprietary software can legally copy, inspect, and
 
 Open source software is different. Its authors make its source code available to others who would like to view that code, copy it, learn from it, alter it, or share it. LibreOffice and the GNU Image Manipulation Program are examples of open source software.
 
-#Why do people prefer using open source software?
+# Why do people prefer using open source software?
 
 * **Control**. Many people prefer open source software because they have more control over that kind of software. They can examine the code to make sure it's not doing anything they don't want it to do, and they can change parts of it they don't like.
 
@@ -25,7 +25,7 @@ Sources:
 [What is Open Source?](https://opensource.com/resources/what-open-source)
 
 
-#Why Should I Contribute to Open Source?
+# Why Should I Contribute to Open Source?
 
 * *Learn by doing* - get to see the inside of a real live large project and help develop it.
 * *Do work that matters* - practice coding on software that will be used by others, not toy examples
