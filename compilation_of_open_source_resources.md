@@ -6,11 +6,11 @@ If you know of any more great resources for this purpose please feel free to add
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [List of Open Source Projects](#list-of-projects)
+- [How to find issues targeted at first timers in github](#how-to-find-issues-targeted-at-first-timers-in-github)
 - [Getting Started with Code Collaboration](#getting-started-with-code-collaboration)
 - [Getting Started with Contributions](#getting-started-with-contributions)
-- [List of Projects](#list-of-projects)
 - [Programs for Contributors](#programs-for-contributors)
-- [How to find issues targeted at first timers in github](#how-to-find-issues-targeted-at-first-timers-in-github)
 - [Organizations For Open Source](#organizations-for-open-source)
 - [Why Contribute?](#why-contribute)
 - [Community](#community)
@@ -20,6 +20,19 @@ If you know of any more great resources for this purpose please feel free to add
 - [How to Overcome Imposter Syndrome](#how-to-overcome-imposter-syndrome)
 
 <!-- /TOC -->
+### List of Open Source Projects
+ - [A list of projects sorted by project type](https://opensource.com/resources/projects-and-applications)
+ - A github repo listing projects and the labels they have created to specify which issues are targeted for beginners.  Projects with these labels are indicating that they would like beginners to help out. [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners)
+ - List of Projects we have contributed to
+    - [NumFocus Open Source Projects](https://www.numfocus.org/open-source-projects/)
+    - [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
+    - Web Browsers: [Mozilla open science](https://science.mozilla.org/projects)
+ - [Apache Project List](https://www.apache.org/)
+ 
+ ### How to find issues targeted at first timers in github
+ - **Search string to use in Github to find an issue:** `is:open is:issue label:first-timers-only`
+ - [Github search for first-timer labels](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
+
 ### Getting Started with Code Collaboration
 - [Git and GitHub Video for Beginners](http://www.dataschool.io/git-and-github-videos-for-beginners/)
 - [Friendly GitHub Intro](https://joeyklee.github.io/friendly-github-intro/)
@@ -31,31 +44,24 @@ If you know of any more great resources for this purpose please feel free to add
 - [How To Contribute](https://opensource.guide/how-to-contribute/)
 - [Getting Started in Open Source](https://blog.newrelic.com/2014/05/05/open-source_gettingstarted/)
 - [How to Start Contributing to Open Source](https://www.developer.com/open/how-to-start-contributing-to-open-source.html)
-### List of Projects
- - [A list of projects sorted by project type](https://opensource.com/resources/projects-and-applications)
- - A github repo listing projects and the labels they have created to specify which issues are targeted for beginners.  Projects with these labels are indicating that they would like beginners to help out. [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners)
- - List of Projects we have contributed to
-    - [NumFocus Open Source Projects](https://www.numfocus.org/open-source-projects/)
-    - [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
-    - Web Browsers: [Mozilla open science](https://science.mozilla.org/projects)
- - [Apache Project List](https://www.apache.org/)
+
 ### Programs for Contributors
 - [First Timers Only](http://www.firsttimersonly.com/)
 - [24 Pull Requests](https://24pullrequests.com/)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
-### How to find issues targeted at first timers in github
- - Search string: is:open is:issue label:first-timers-only
- - [Github search for first-timer labels](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
-### Organizations For Open Source
+
 ### Why Contribute?
 - [What are the Benefits of Contributing to Open Source Projects](https://stackoverflow.com/questions/1152167/what-are-the-benefits-of-contributing-to-open-source-projects)
 - [Why Contribute To Open Source](https://simpleprogrammer.com/2016/03/14/why-contribute-to-open-source/)
+
 ### Community
 - [Building a Community](https://opensource.guide/building-community/)
+
 ### Overall Guides
 - [Open Science @ Mozilla](https://mozillascience.github.io/open-science-leadership-workshop/index.html)
 - [Open Source @ GitHub](https://opensource.guide/)
+
 ### Personal Stories
 - [Julia Evans - Contributing to Open Source](https://jvns.ca/blog/2017/08/06/contributing-to-open-source/)
   * remember that maintaining an open source project is super hard
