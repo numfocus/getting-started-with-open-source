@@ -3,8 +3,6 @@
 ### What should I know before getting started?
 First of all thanks for taking the time to contribute to our project. We are happy to welcome contributors and we really value the time and effort you take to work with us on this project.
 
-We have set this contribution guidelines to make it easier for you to get involved. If you have any questions please let us know by rising an [issue](https://github.com/numfocus/getting-started-with-open-source/issues).
-
 ### [Imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) disclaimer:
 
 I want your help. No really, I do.
@@ -16,6 +14,8 @@ I assure you, that's not the case.
 ### Contributing Guidelines
 
 This project has some clear Contribution Guidelines and expectations that you can read here (link).
+
+We have set some clear contribution guidelines to make it easier for you to get involved. You can find these guidelines [here]().
 
 The contribution guidelines outline the process that you'll need to follow to get a patch merged. By making expectations and process explicit, I hope it will make it easier for you to contribute.
 
