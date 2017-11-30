@@ -4,7 +4,7 @@ This folder contains documents and resources on getting started with open
 source projects.
 
 # Manifest
-* (`compilation_of_open_source_resources.md`)[./compilation_of_open_source_resources.md] - This file includes a collection
+* [`compilation_of_open_source_resources.md`](./compilation_of_open_source_resources.md) - This file includes a collection
 of external resources (links) that elaborate on how and why to contribute 
 to open source projects
 * `DISC_UNCONF_OS.md` - DISC Unconference's definition of open source. 
