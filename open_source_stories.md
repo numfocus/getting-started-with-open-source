@@ -116,3 +116,17 @@
   - Yes! Most of the code generated for my thesis is open source.
 - **My Skills to Share:**
   - Python, markdown, Git
+
+**Tania Allard**
+- **About:**
+  - Research Software Engineering, PhD in Computational modelling, Open source, diversity, inclusion and data nerd  
+  - I am massively interested in promoting and facilitating reproducible and replicable science, analysis workflows, and helping to maximise the research impact by developing robust, sustainable, and open software.  I am also passionate about data readiness, accessibility, and curation.
+  - I love mentoring, teaching and build supportive and welcoming communities ✨
+- **Have I contributed to open source?**
+  - Yes! During my PhD I became massively aware of the importance of open source projects as well as the lack (at that time) of robust open software for the area I was working on.
+
+  The very vast majority of my work is completely open source these days (except for some sensitive research... you know how it works). I also am the founder/maintainer of [Coding Foundation](https://github.com/trallard/Coding-foundation) an open source project aimed to increase the representation of women and members of the LGBT community in Computer Science and tech related areas (data science included). Also, I actively contribute to a number of open source projects which are part of larger organizations and initiatives.
+
+- **My skills to share:**
+  - Python, R, MATLAB, Fortran, C/C++, data visualization, data analysis / science, version control, web development (full stack), API design, HPC, cloud computing
+  - Teaching, mentoring, public speaking, outreach and dissemination, community building
