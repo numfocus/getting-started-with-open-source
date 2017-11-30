@@ -78,6 +78,11 @@ I have been using open source (OS) tools for my thesis work for the past 4 years
   - I&#39;ve hosted some open source related events (meetups and hackathons) and posted a few simple open source answers on Stack Overflow
 - **My Skills to Share:**
   - Writing (just in English, but could help on simple documentation, FAQs, blog posts, etc)
+- **My Story:**
+I studied music composition in undergrad, then earned an MFA in musical theatre writing (did you know you can even earn a terminal degree in musical theatre writing?) I started woking at Two Sigma in 2010, and worked there first as a receptionist, then on the Learning and Development team, and now in a role that was new to me and new to the company: I became Two Sigma's first Open Source Coordinator.  I'm still learning all I can about the open source world -- everyone I've encountered has been really friendly about answering questions.  I even tried to combine my two worlds, writing the music for a song in one of my new musicals using the open source music tool SonicPi.  I'm so excited to consider myself part of this awesome open source community. 
+
+
+
 
 **April Webster**
 
