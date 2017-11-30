@@ -27,7 +27,7 @@ In the weeks leading up to our hackathon, we host a talk and a workshop.  For th
 
 Secure a place and a date for your event.  Think about whether you want attendees to attend in person, or if people can attend virtually.  Since we held our events with everyone in the same place at the same time, these are some of the issues we thought about: Where will the event be?  If you work at a company, perhaps they have a meeting space you can use. You can also check whether other companies routinely open their spaces up for events like this. (Two Sigma, for example, sometimes hosts open source meetups in our space for no cost to the meetup organizer.) You want to make sure that you have table space, chairs, power outlets, and adequate wifi for your participants, and to make a plan for breakfast, lunch, and dinner.  
 
-##### Step 5: Communicate
+#### Step 5: Communicate
 
 I recommend setting up some sort of wiki or Google doc announcing your event with links to the project you’ll be hacking on, the issue list you’ve curated, and a place for people to sign up in advance to work on certain issues. Clearly set out any pre-requisites for participating.  If possible, link these with ways to meet the prerequisite (i.e., if you need to know Python to contribute, you might link to an intro Python course on Coursera.) Don’t forget about material prerequisites. For example, if everyone will be hacking on their personal laptops (as is the case for our events), make that clear.  Also provide clear instructions for setting up your computing environment and encourage people to do this prior to the event.    
 
