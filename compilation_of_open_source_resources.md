@@ -47,7 +47,6 @@ If you know of any more great resources for this purpose please feel free to add
 ### How to find issues targeted at first timers in github
  - **Search string to use in Github to find an issue:** `is:open is:issue label:first-timers-only`
  - [Github search for first-timer labels](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
-### Organizations For Open Source
 ### Why Contribute?
 - [What are the Benefits of Contributing to Open Source Projects](https://stackoverflow.com/questions/1152167/what-are-the-benefits-of-contributing-to-open-source-projects)
 - [Why Contribute To Open Source](https://simpleprogrammer.com/2016/03/14/why-contribute-to-open-source/)
