@@ -1,5 +1,5 @@
-# List of curated resources to get started in Open source
-This is a comprehensive, yet not definite, collection of _verified_ resources that we put together in an attempt to help anyone wanting to get started in the amazing world of Open Science.
+# List of curated resources to get started in Open Source
+This is a comprehensive, yet not definite, collection of _verified_ resources that we put together in an attempt to help anyone wanting to get started in the amazing world of Open Source.
 
 If you know of any more great resources for this purpose please feel free to add them here. To make it easier for you to conntribute to this repo we have some [Contributing Guidelines](./CONTRIBUTING.md), make sure to read them first.
 
