@@ -1,5 +1,10 @@
 # How to contribute
 
+### What should I know before getting started?
+First of all thanks for taking the time to contribute to our project.
+
+We have set this contribution guidelines to make it easier for you to get involved. If you have any questions please let us know by rising an [issue](https://github.com/numfocus/getting-started-with-open-source/issues).
+
 ### [Imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) disclaimer:
 
 I want your help. No really, I do.
