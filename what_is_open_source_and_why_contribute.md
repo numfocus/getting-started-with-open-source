@@ -33,7 +33,7 @@ Sources:
 * *Get great freebies* - open source contributors often get access to free software
 * *Meet new coders* - collaborate with other coders who may have more experience than you
 
-[[What are the Benefits of Contributing to Open Source Projects?](https://stackoverflow.com/questions/1152167/what-are-the-benefits-of-contributing-to-open-source-projects)
+[What are the Benefits of Contributing to Open Source Projects?](https://stackoverflow.com/questions/1152167/what-are-the-benefits-of-contributing-to-open-source-projects)
 
 
-[[Contribute to Open Source Projects](http://www.makeuseof.com/tag/contribute-opensource-projects/)
+[Contribute to Open Source Projects](http://www.makeuseof.com/tag/contribute-opensource-projects/)
