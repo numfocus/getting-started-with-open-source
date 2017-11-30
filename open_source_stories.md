@@ -1,6 +1,6 @@
-# About
+# Meet the contributors
 
-### Reshama Shaikh
+### ⭐️[Reshama Shaikh](https://github.com/reshamas)
 
 - **About:**
   - Statistician, Data Scientist, MBA
@@ -12,7 +12,7 @@
   - Can create a Git tutorial since that skill is required for contributing to many open source projects
   - Markdown, Git
 
-### Esther Kundin
+### ⭐️[Esther Kundin](https://github.com/ekund)
 
 - **About:**
   - Senior Software Engineer
@@ -30,7 +30,7 @@
 - **My Story:**
   I have been a software engineer for many years, but shied away from contributing to Open Source.  I didn't know where to start and was nervous about putting myself in a position where others would criticize my work. However, for a project at work, I needed to put in a patch to an Apache project.  I found the work interesting, learned a lot in terms of the documentation and testing requirements, and found the community supportive and nice to work with!  I have worked on some other small projects at Hackathons and look forward to working on more projects as part of Sprints and Hackathons.
 
-### James Horine
+### ⭐️[James Horine](https://github.com/jameshorine)
 
 - **About:**
   - Senior Data Scientist / M.S. Statistics
@@ -44,7 +44,7 @@
     - Why it&#39;s a PITA for data scientists to learn
   - R, Python, Git, Shell for data science
 
-### Leah Guthrie
+### ⭐️[Leah Guthrie](https://github.com/Dr-G)
 
 - **About:**
   - Computational biologist, PhD candidate
@@ -58,7 +58,7 @@
 - **My Story:**
 I have been using open source (OS) tools for my thesis work for the past 4 years. Three years in, I made my first OS contribution. In the Spring of 2017, I participated in a Scikit-learn Sprint organized by the [NYC WiMLDS]( https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) meetup group. It was a friendly introduction to the process of choosing a project, identifying an issue and submitting a pull request.
 
-### Mayur Gilani
+### ⭐️[Mayur Gilani](https://github.com/mayurgilani)
 
 - **About:**
   - Quantitative Finance, Data Science Enthusiast
@@ -69,7 +69,7 @@ I have been using open source (OS) tools for my thesis work for the past 4 years
 - **My Skills to Share:**
   - Python, R, Git
 
-### Julia Meinwald
+### ⭐️[Julia Meinwald](https://github.com/JMeinwald)
 
 - **About:**
   - Composer (musical theatre) by night, open source coordinator/fledgling community manager at Two Sigma by day!
@@ -82,7 +82,7 @@ I have been using open source (OS) tools for my thesis work for the past 4 years
 I studied music composition in undergrad, then earned an MFA in musical theatre writing (did you know you can even earn a terminal degree in musical theatre writing?) I started woking at Two Sigma in 2010, and worked there first as a receptionist, then on the Learning and Development team, and now in a role that was new to me and new to the company: I became Two Sigma's first Open Source Coordinator.  I'm still learning all I can about the open source world -- everyone I've encountered has been really friendly about answering questions.  I even tried to combine my two worlds, writing the music for a song in one of my new musicals using the open source music tool SonicPi.  I'm so excited to consider myself part of this awesome open source community.
 
 
-### April Webster
+### ⭐️[April Webster](https://github.com/aprilwebster)
 
 - **About:**
   - Software engineer, statistics consultant in a previous life, MSc Computer Science
@@ -91,7 +91,7 @@ I studied music composition in undergrad, then earned an MFA in musical theatre 
 - **My Skills to Share:**
   - Python, Javascript, Java
 
-### Anderson Frailey
+### ⭐️[Anderson Frailey](https://github.com/andersonfrailey)
 
 - **About:**
   - Research Associate at the [Open Source Policy Center](http://www.ospc.org)
@@ -102,7 +102,7 @@ I studied music composition in undergrad, then earned an MFA in musical theatre 
 - **My Story:**
   After studying economics in undergrad, I began working at a think tank in Washington, DC on an open source tax model. This was my first step into both open source and software development/data science. I had no idea what I was doing initially (my first pull requests reflect this), but after some time I became more comfortable putting code out there for others to review and use. Since then I have been involved in Code for DC and gotten into the habit of posting most of the code I write on GitHUb. Getting involved in open source has improved my development skills dramtically as I have been able to see other's code and have my own reviewed and corrected.
 
-### Prince Wilson
+### ⭐️[Prince Wilson](https://github.com/maxcell)
 
 - **About:**
   - Software Enthusiast during the day, Corgi Fanatic all the time
@@ -114,7 +114,7 @@ I studied music composition in undergrad, then earned an MFA in musical theatre 
   - Python, Ruby, Elixir, Accessibility
   - Focus on writing effective documentation for people to read, digest, and understand
 
-### Chaya Stern
+### ⭐️[Chaya Stern](https://github.com/ChayaSt)
 
 - **About:**
   - Computational chemist, PhD Candidate, Weill Cornell
@@ -124,7 +124,7 @@ I studied music composition in undergrad, then earned an MFA in musical theatre 
 - **My Skills to Share:**
   - Python, markdown, Git
 
-### [Tania Allard](https://github.com/trallard)
+### ⭐️[Tania Allard](https://github.com/trallard)
 
 - **About:**
   - Research Software Engineering, PhD in Computational modelling, Open source, diversity, inclusion and data nerd  
