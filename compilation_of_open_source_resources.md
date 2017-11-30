@@ -1,5 +1,5 @@
-# List of curated resources to get started in Open source
-This is a comprehensive, yet not definite, collection of _verified_ resources that we put together in an attempt to help anyone wanting to get started in the amazing world of Open Science.
+# List of curated resources to get started in Open Source
+This is a comprehensive, yet not definite, collection of _verified_ resources that we put together in an attempt to help anyone wanting to get started in the amazing world of Open Source.
 
 If you know of any more great resources for this purpose please feel free to add them here. To make it easier for you to conntribute to this repo we have some [Contributing Guidelines](./CONTRIBUTING.md), make sure to read them first.
 
@@ -33,7 +33,7 @@ If you know of any more great resources for this purpose please feel free to add
 - [How to Start Contributing to Open Source](https://www.developer.com/open/how-to-start-contributing-to-open-source.html)
 ### List of Projects
  - [A list of projects sorted by project type](https://opensource.com/resources/projects-and-applications)
- - A github repo listing projects and the labels they have created to specify which issues are targeted for beginners.  Projects with these labels are indicating that they would like beginners to help out. [Awesome for beginners] (https://github.com/MunGell/awesome-for-beginners)
+ - A github repo listing projects and the labels they have created to specify which issues are targeted for beginners.  Projects with these labels are indicating that they would like beginners to help out. [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners)
  - List of Projects we have contributed to
     - [NumFocus Open Source Projects](https://www.numfocus.org/open-source-projects/)
     - [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
