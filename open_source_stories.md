@@ -27,6 +27,8 @@
   - C++, python, hadoop, hbase, spark
   - Git
   - Organizing diversity events
+- **My Story:**
+  I have been a software engineer for many years, but shied away from contributing to Open Source.  I didn't know where to start and was nervous about putting myself in a position where others would criticize my work. However, for a project at work, I needed to put in a patch to an Apache project.  I found the work interesting, learned a lot in terms of the documentation and testing requirements, and found the community supportive and nice to work with!  I have worked on some other small projects at Hackathons and look forward to working on more projects as part of Sprints and Hackathons.
 
 **James Horine**
 
