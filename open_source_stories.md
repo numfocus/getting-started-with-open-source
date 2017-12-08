@@ -11,7 +11,9 @@
   - Have organized an **open source sprint** for the Python library scikit-learn:  [https://github.com/WiMLDS/scikit-sprint](https://github.com/WiMLDS/scikit-sprint)
   - Can create a Git tutorial since that skill is required for contributing to many open source projects
   - Markdown, Git
-
+- **Contact:**
+  - [@reshamas](https://twitter.com/reshamas) on Twitter
+  
 ### ⭐️[Esther Kundin](https://github.com/ekund)
 
 - **About:**
