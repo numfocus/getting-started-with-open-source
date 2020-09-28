@@ -50,6 +50,7 @@ If you know of any more great resources for this purpose please feel free to add
 - [24 Pull Requests](https://24pullrequests.com/)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
+- [Outreachy](https://www.outreachy.org/)
 
 ## Why Contribute?
 - [What are the Benefits of Contributing to Open Source Projects](https://stackoverflow.com/questions/1152167/what-are-the-benefits-of-contributing-to-open-source-projects)
