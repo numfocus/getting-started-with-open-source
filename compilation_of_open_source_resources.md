@@ -30,13 +30,14 @@ If you know of any more great resources for this purpose please feel free to add
  - [Apache Project List](https://www.apache.org/)
  
  ## How to find issues targeted at first timers in github
- - Some issues are better suited to new contributors to an Open Source project.  To make these easier to find, they are often tagged with some of the following labels `first-timers-only`, `good first issue`, `good first task`, `beginners welcome`, `up-for-grabs`, `hacktoberfest`
+ - Some issues are better suited to new contributors to an Open Source project.  To make these easier to find, they are often tagged with some of the following labels `first-timers-only`, `good first issue`, `good first task`, `beginners welcome`, `up-for-grabs`, `hacktoberfest`, `codeheat`
  - [Github search for first-timer labels](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
 
 ## Getting Started with Code Collaboration
 - [Git and GitHub Video for Beginners](http://www.dataschool.io/git-and-github-videos-for-beginners/)
 - [Friendly GitHub Intro](https://joeyklee.github.io/friendly-github-intro/)
 - [Introduction to Shell](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
 
 ## Getting Started with Contributions
 - [Choosing an Organization](https://google.github.io/gsocguides/student/choosing-an-organization)
@@ -50,6 +51,13 @@ If you know of any more great resources for this purpose please feel free to add
 - [24 Pull Requests](https://24pullrequests.com/)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
+- [GirlSript summer of Code](https://gssoc.girlscript.tech/)
+- [MLH Open Source fellowship](https://fellowship.mlh.io/programs/open-source)
+- [Outreachy](https://www.outreachy.org/)
+- [Season of KDE](https://season.kde.org/)
+- [FOSSASIA codeheat](https://codeheat.org/)
+- [Open Summer of Code](https://osoc.be/)
+- [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)
 
 ## Why Contribute?
 - [What are the Benefits of Contributing to Open Source Projects](https://stackoverflow.com/questions/1152167/what-are-the-benefits-of-contributing-to-open-source-projects)
