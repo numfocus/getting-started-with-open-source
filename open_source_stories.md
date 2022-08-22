@@ -68,7 +68,7 @@ I have been using open source (OS) tools for my thesis work for the past 4 years
   - Quantitative Finance, Data Science Enthusiast
 - **Have I contributed to open source:**
   - Short answer: No
-  - Except for asking questions on Stackoverflow
+  - Except for asking questions on Stack Overflow
   - And promote Open Source on any medium I get.
 - **My Skills to Share:**
   - Python, R, Git

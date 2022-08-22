@@ -1,23 +1,23 @@
 # List of curated resources to get started in Open Source
 This is a comprehensive, yet not definitive, collection of _verified_ resources that we put together in an attempt to help anyone wanting to get started in the amazing world of Open Source.
 
-If you know of any more great resources for this purpose please feel free to add them here. To make it easier for you to conntribute to this repo we have some [Contributing Guidelines](./CONTRIBUTING.md), make sure to read them first.
+If you know of any more great resources for this purpose please feel free to add them here. To make it easier for you to contribute to this repo we have some [Contributing Guidelines](./CONTRIBUTING.md), make sure to read them first.
 
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [List of Open Source Projects](#list-of-projects)
-- [How to find issues targeted at first timers in github](#how-to-find-issues-targeted-at-first-timers-in-github)
-- [Getting Started with Code Collaboration](#getting-started-with-code-collaboration)
-- [Getting Started with Contributions](#getting-started-with-contributions)
-- [Programs for Contributors](#programs-for-contributors)
-- [Organizations For Open Source](#organizations-for-open-source)
-- [Why Contribute?](#why-contribute)
-- [Community](#community)
-- [Overall Guides](#overall-guides)
-- [Personal Stories](#personal-stories)
-- [Advanced Resources](#advanced-resources)
-- [How to Overcome Imposter Syndrome](#how-to-overcome-imposter-syndrome)
+- [List of curated resources to get started in Open Source](#list-of-curated-resources-to-get-started-in-open-source)
+  - [List of Open Source Projects](#list-of-open-source-projects)
+  - [How to find issues targeted at first timers in github](#how-to-find-issues-targeted-at-first-timers-in-github)
+  - [Getting Started with Code Collaboration](#getting-started-with-code-collaboration)
+  - [Getting Started with Contributions](#getting-started-with-contributions)
+  - [Programs for Contributors](#programs-for-contributors)
+  - [Why Contribute?](#why-contribute)
+  - [Community](#community)
+    - [Overall Guides](#overall-guides)
+  - [Personal Stories](#personal-stories)
+  - [Advanced Resources](#advanced-resources)
+  - [How to Overcome Imposter Syndrome](#how-to-overcome-imposter-syndrome)
 
 <!-- /TOC -->
 ## List of Open Source Projects
