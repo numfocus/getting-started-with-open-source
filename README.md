@@ -5,7 +5,7 @@
 This repository contains documents and resources on getting started with Open
 Source projects.
 
-This resource was created as part of the [NumFocus DISC Unconference](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/).  📃 Read about its creation on the [NumFocus blog](https://numfocus.org/blog/getting-started-open-source-notes-numfocus-disc-unconference).
+This resource was created as part of the [NumFOCUS DISC Unconference](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/).  📃 Read about its creation on the [NumFOCUS blog](https://numfocus.org/blog/getting-started-open-source-notes-numfocus-disc-unconference).
 
 ### [Why contribute to Open Source?](./what_is_open_source_and_why_contribute.md)
 Wondering why you contribute to Open Source?  Here are a few good reasons it can benefit both you and the world!
