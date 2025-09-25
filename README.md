@@ -19,3 +19,47 @@ An Open Source sprint is a short event where groups of people get together to wo
 
 ### [Meet the Contributors](./open_source_stories.md)
 About the contributors to this repo and their Open Source experience.
+---
+
+## 🚀 How to Contribute: Git Setup and First Pull Request
+
+### 1. Install Git
+- Download and install Git: [https://git-scm.com/downloads](https://git-scm.com/downloads)  
+- After installation, configure your name and email:
+  ```bash
+  git config --global user.name "Your Name"
+  git config --global user.email "youremail@example.com"
+  ```
+
+### 2. Fork & Clone the Repository
+
+Click the Fork button at the top right of this repository’s page to create your own copy.
+
+Clone your fork:
+ ```
+ git clone https://github.com/<your-username>/getting-started-with-open-source.git
+cd getting-started-with-open-source
+```
+### 3. Create a New Branch
+```
+git checkout -b my-first-contribution
+```
+### 4. Make Your Changes
+
+Edit files (e.g., improve documentation or add resources).
+
+Save your changes.
+
+### 5. Commit & Push
+```
+git add .
+git commit -m "Update README: add Git setup and PR guide"
+git push origin my-first-contribution
+```
+### 6. Open a Pull Request
+
+Go to your fork on GitHub.
+
+Click Compare & Pull Request.
+
+Add a clear description and mention the issue number (e.g., Fixes #37).
