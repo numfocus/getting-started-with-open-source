@@ -98,3 +98,17 @@ If you know of any more great resources for this purpose please feel free to add
  - [Imposter Syndrome](https://github.com/dbgrandi/imposter-syndrome-talk/blob/master/imposter_syndrome.md)
  - https://twitter.com/adriennefriend/status/885980514628317185
  - https://twitter.com/GonzoHacker/statuses/859517665588674560
+
+---
+
+## 🧭 Filter Open Source Projects by Language & Skill Level
+
+| Language | Skill Level | Contribution Type | Example Projects |
+|-----------|-------------|------------------|------------------|
+| Python | Beginner | Documentation | [SymPy Good First Issues](https://github.com/sympy/sympy/labels/good%20first%20issue) |
+| JavaScript | Intermediate | Code | [Vue.js Issues](https://github.com/vuejs/core/labels/good%20first%20issue) |
+| C++ | Advanced | Performance | [OpenCV Issues](https://github.com/opencv/opencv/labels/good%20first%20issue) |
+| R | Beginner | Data & Stats | [Tidyverse Issues](https://github.com/tidyverse/tidyverse/labels/good%20first%20issue) |
+| Julia | Intermediate | Scientific Computing | [JuliaLang Issues](https://github.com/JuliaLang/julia/labels/good%20first%20issue) |
+
+This table helps new contributors explore open-source projects based on **language**, **experience level**, and **type of contribution**.SS
