@@ -29,6 +29,20 @@ If you know of any more great resources for this purpose please feel free to add
     - Web Browsers: [Mozilla open science](https://science.mozilla.org/projects)
  - [Apache Project List](https://www.apache.org/)
  
+
+### Filter projects by language & difficulty
+The table below helps new contributors quickly identify open-source projects based on their **programming language**, **skill level**, and **preferred type of contribution**.
+
+| Language      | Skill Level   | Contribution Type | Beginner-friendly label present | Example Projects / Issues |
+|---------------|---------------|-------------------|----------------------------------|---------------------------|
+| Python        | Beginner      | Documentation     | Yes                              | [Django](https://github.com/django/django/issues?q=label%3Adocs), [Pandas](https://github.com/pandas-dev/pandas/issues?q=label%3Agood+first+issue) |
+| Python        | Beginner      | Code              | Yes                              | [Flask](https://github.com/pallets/flask/issues?q=label%3Agood+first+issue), [Requests](https://github.com/psf/requests/issues?q=label%3Agood+first+issue) |
+| JavaScript    | Beginner      | Code              | Yes                              | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=label%3Afirst-timers-only), [React](https://github.com/facebook/react/issues?q=label%3Agood+first+issue) |
+| JavaScript    | Intermediate  | Code              | Yes                              | [Vue.js](https://github.com/vuejs/core/issues?q=label%3Agood+first+issue), [Node.js](https://github.com/nodejs/node/issues?q=label%3Agood+first+issue) |
+| Java          | Intermediate  | Documentation     | Yes                              | [Spring Boot](https://github.com/spring-projects/spring-boot/issues?q=label%3Agood+first+issue) |
+| C++           | Advanced      | Code              | Limited                          | [LLVM](https://github.com/llvm/llvm-project/issues?q=label%3Agood+first+issue), [OpenCV](https://github.com/opencv/opencv/issues?q=label%3Agood+first+issue) |
+
+
  ## How to find issues targeted at first timers in github
  - Some issues are better suited to new contributors to an Open Source project.  To make these easier to find, they are often tagged with some of the following labels `first-timers-only`, `good first issue`, `good first task`, `beginners welcome`, `up-for-grabs`, `hacktoberfest`, `codeheat`
  - [Github search for first-timer labels](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Afirst-timers-only)
