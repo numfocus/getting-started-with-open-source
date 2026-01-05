@@ -19,3 +19,63 @@ An Open Source sprint is a short event where groups of people get together to wo
 
 ### [Meet the Contributors](./open_source_stories.md)
 About the contributors to this repo and their Open Source experience.
+
+
+## Getting Started: Git Setup & First Pull Request
+
+If you are new to open source, follow these simple steps to make your
+first contribution.
+
+### Step 1: Install Git
+Download Git from:
+https://git-scm.com/downloads
+
+Check installation:
+```bash
+git --version
+
+### Step 2: Configure Git
+Set your name and email (required for commits):
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+
+### Step 3: Fork the Repository
+Click the **Fork** button at the top-right of this repository.
+This will create a copy of the repository under your GitHub account.
+
+### Step 4: Clone the Repository
+Clone your fork to your local machine:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/getting-started-with-open-source.git
+cd getting-started-with-open-source
+
+### Step 5: Create a New Branch
+Create and switch to a new branch:
+git checkout -b my-first-contribution
+
+### Step 6: Make Your Changes
+
+Open README.md
+Make your changes
+Save the file
+
+### Step 7: Commit Your Changes
+
+Stage and commit your changes:
+
+git add README.md
+git commit -m "Improve README with Git setup and first PR steps"
+
+### Step 8: Push Changes to GitHub
+Push your branch to your fork:
+git push origin my-first-contribution
+
+### Step 9: Create a Pull Request
+
+Go to your fork on GitHub
+Click Compare & Pull Request
+Add a short description
+Submit the PR
