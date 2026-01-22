@@ -19,3 +19,13 @@ An Open Source sprint is a short event where groups of people get together to wo
 
 ### [Meet the Contributors](./open_source_stories.md)
 About the contributors to this repo and their Open Source experience.
+
+### Git Setup and First Pull Request
+
+1. **Install Git**
+   - Official website: [https://git-scm.com/](https://git-scm.com/)
+2. **Fork and Clone the Repository**
+   ```bash
+   git clone https://github.com/<your-username>/getting-started-with-open-source.git
+   cd getting-started-with-open-source
+
