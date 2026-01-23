@@ -98,3 +98,4 @@ If you know of any more great resources for this purpose please feel free to add
  - [Imposter Syndrome](https://github.com/dbgrandi/imposter-syndrome-talk/blob/master/imposter_syndrome.md)
  - https://twitter.com/adriennefriend/status/885980514628317185
  - https://twitter.com/GonzoHacker/statuses/859517665588674560
+- [Filter projects by language & skill level](./filter-by-language.md)
