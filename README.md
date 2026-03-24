@@ -1,7 +1,7 @@
 ![DISC logo](./assets/DISC.png)
 
 # Overcoming barriers to entry in Open Source projects
-_A guide to help new contributors get started in open source, with examples and resources._
+_A guide to help new contributors get started in open source, with example and resources._
 
 This repository contains documents and resources on getting started with Open
 Source projects.
